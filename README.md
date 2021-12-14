@@ -2,7 +2,7 @@
 
 language: Python
 
-packages: requests, BeautifulSoup
+<red>packages:</red> requests, BeautifulSoup
 
 web browser: Google Chrome
 
